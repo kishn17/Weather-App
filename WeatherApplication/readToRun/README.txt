@@ -1,0 +1,1 @@
+Under folder WeatherApp open terminal and type "npm run dev".
